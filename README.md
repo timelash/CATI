@@ -4,6 +4,8 @@ A personal project on AI learning to detect what images are - and later to tag t
 
 Starting point: https://github.com/techwithtim/5-Python-AI-Projects/blob/main/project2.py
 
+The code utilises the [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+
 Decided to clone rather than branch as I do want to add to it and change it to fit my personal needs.
 
 Requirements:
@@ -23,3 +25,5 @@ but as the VM did not a GPU, I then went down the path of running thew script on
 FYI, I used Python 3.9 with tensorflow 1.5.
 
 For a [compatibilty list](https://www.tensorflow.org/install/pip) (with alternate versions of tf) 
+
+
